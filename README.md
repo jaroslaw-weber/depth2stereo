@@ -1,3 +1,3 @@
-# depth_to_stereo
+# depth2stereo
 
 creating stereo images from depth map + image
